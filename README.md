@@ -1,7 +1,8 @@
 # Data-Analytics-and-Web-Application-using-R
 
 ## Problem Statement:
-### The GoForFit App was created with the purpose of “​Sports Education and Fitness Assessment,Intervention and Monitoring for School Children”. As with any app, this app is supported by adatabase which contains the fitness assessment results of thousands of school students from allover India. However, this data, due to its enormity, virtually serves no purpose unless it isensured of its consistency and is analysed scrupulously. This project aims at solving thisproblem of data analysis on the GoForFit App Database by cleaning data and analysing it toreach important conclusions.
+### The GoForFit App was created with the purpose of “​Sports Education and Fitness Assessment,Intervention and Monitoring for School Children”. As with any app, this app is supported by adatabase which contains the fitness assessment results of thousands of school students from allover India. 
+### However, this data, due to its enormity, virtually serves no purpose unless it isensured of its consistency and is analysed scrupulously. This project aims at solving thisproblem of data analysis on the GoForFit App Database by cleaning data and analysing it toreach important conclusions.
 
 ## History of the problem:
 ### India, with her vast diversity, is yet to showcase extraordinary talent in a large number, when itcomes to sports and fitness, save some accomplished sportspersons that she has contributed tothe sports industry. A major reason for this is the lack of technical and financial supportprovided to students at the school level as well as a lesser amount of amenities for sportspersons.
